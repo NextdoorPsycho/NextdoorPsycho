@@ -21,7 +21,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
   - Name: Brian
   - Discord: ⋈-NextdoorPsycho-⋈#0001
   - Education: Cogswell College (USV now), CS Software Engineering  /  Political Science (Elsewhere)
-  - Background: Conservative, Gay, Jew (the one and only) :us:™️
+  - Background: Conservative, Gay, Jew (the one and only) :us: ™️
   - MTG: Mono blue, EDH // Rainbow Slivers
   
 </details>
