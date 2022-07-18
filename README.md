@@ -8,12 +8,19 @@ in general, the universe is often just larger than comprehension; given time, ex
 Im a fairly closed bok, so here are some of the things off the top of my head that 
 
 <details>
+  <summary>Work Info</summary>
+  - Company: [Volmit Software](https://www.volmit.com/) // Arcane Arts
+  - Title: Software Engineer // Dimensional Mechanic
+  - Length: 5+ Years
+  - Status: Employed 
+</details>
+<details>
   <summary>Info</summary>
   - Name: Brian
   - Discord: ⋈-NextdoorPsycho-⋈#0001
-  - Education: CS, Software Engineering  /  Political Science
+  - Education: Cogswell College (USV now), CS Software Engineering  /  Political Science (Elsewhere)
   - Background: Conservative-Gay-Jew (the one and only) 🇺🇸™️
-  - MTG: Mono blue, EDH // 
+  - MTG: Mono blue, EDH // Rainbow Slivers
   
 </details>
 <details>
@@ -23,6 +30,12 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
   - Dart/Flutter
   - Swift
 
+</details>
+<details>
+  <summary>Feats</summary>
+  - AI Mastermind, and Expert generator with Dalle-2
+  - People's Assignment Count **15**
+  - Procedurally generated works that have passed **8** (85% confidence or higher)
 </details>
 
 ### Current Active Projects  /  Actively working on
@@ -36,6 +49,5 @@ Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 
 
 ![NextdoorPsycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho) 
   
