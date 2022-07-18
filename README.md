@@ -9,6 +9,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
 
 <details>
   <summary>Work Info</summary>
+  
   - Company: [Volmit Software](https://www.volmit.com/) // Arcane Arts
   - Title: Software Engineer // Dimensional Mechanic
   - Length: 5+ Years
@@ -16,6 +17,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
 </details>
 <details>
   <summary>Info</summary>
+  
   - Name: Brian
   - Discord: ⋈-NextdoorPsycho-⋈#0001
   - Education: Cogswell College (USV now), CS Software Engineering  /  Political Science (Elsewhere)
@@ -25,6 +27,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
 </details>
 <details>
   <summary>Languages</summary>
+  
   - Java
   - Python
   - Dart/Flutter
@@ -33,6 +36,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
 </details>
 <details>
   <summary>Feats</summary>
+  
   - AI Mastermind, and Expert generator with Dalle-2
   - People's Assignment Count **15**
   - Procedurally generated works that have passed **8** (85% confidence or higher)
