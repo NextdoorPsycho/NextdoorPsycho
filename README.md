@@ -35,14 +35,7 @@ Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 - [Abyssalith, Bot](https://github.com/VolmitSoftware/Abyssalith) - Using DemobotCore but an early version
 
 
-### Stats
+![NextdoorPsycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&show_icons=true&theme=radical)
 
-<details>
-  <summary>Code stats</summary>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho) 
   
-  ![NextdoorPsycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&show_icons=true&theme=radical)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho) 
-  ![Wakatime](https://github-readme-stats.vercel.app/api/wakatime?username=NextdoorPsycho&layout=compact)
-  
-</details>
-
