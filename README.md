@@ -1,5 +1,5 @@
 ## Greetings!
-Hello, and welcome to my repo. This is a place where I stash all my projects like a linux developer stores old commits and waits for the council to decide their fate. there arent many projects that I actively initalize, because i like working on larger projects. but you'll find some below.
+By looking far out into space, we are also looking far back into time, back toward the horizon of the universe; Beyond the edge of the world there's a space where emptiness and substance neatly overlap, where past and future form a continuous, endless loop. And, hovering about, there are signs no one has ever read, chords no one has ever heard. The stars are like the trees in the forest, alive and breathing. And they're watching us.
 
 ![image](https://i.imgur.com/SZBTV4r.png)
 in general, the universe is often just larger than comprehension; given time, expansion will occor. Are you ready to see the universe?
