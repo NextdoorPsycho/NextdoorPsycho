@@ -46,7 +46,6 @@ Im a fairly closed bok, so here are some of the things off the top of my head, a
 Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 - [Iris, Dimensions](https://github.com/IrisDimensions) - Namely the [Overworld](https://github.com/IrisDimensions/overworld)
 - [Iris, Engine](https://github.com/VolmitSoftware/Iris) - Creative Direction, and local fixer
-- [Iris, Dimensions](https://github.com/IrisDimensions) - Namely the [Overworld](https://github.com/IrisDimensions/overworld)
 - [Adapt](https://github.com/VolmitSoftware/Adapt) - Adapt is a Skill plugin replacement for Server Owners
 - [DemoBot, Core/Framework](https://github.com/NextdoorPsycho/DemoBot) - This is a base framework for Discord Bots
 - [Abyssalith, Bot](https://github.com/VolmitSoftware/Abyssalith) - Using DemobotCore but an early version
