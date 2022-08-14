@@ -51,8 +51,8 @@ Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 - [DemoBot, Core/Framework](https://github.com/NextdoorPsycho/DemoBot) - This is a base framework for Discord Bots
 - [Abyssalith, Bot](https://github.com/VolmitSoftware/Abyssalith) - Using DemobotCore but an early version
 
-![](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com?user=NextdoorPsycho&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000000&ring=DD2727&fire=FFF915&sideNums=42DD05)<br/>
+![](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
 
