@@ -52,9 +52,8 @@ Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 - [Abyssalith, Bot](https://github.com/VolmitSoftware/Abyssalith) - Using DemobotCore but an early version
 
 ![](https://github-readme-streak-stats.herokuapp.com?user=NextdoorPsycho&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000000&ring=DD2727&fire=FFF915&sideNums=42DD05)<br/>
-![](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
-
+![](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&theme=dark&hide_border=true&background=000000&ring=DD2727&fire=FFF915&sideNums=42DD05&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho&theme=dark&hide_border=true&background=000000&ring=DD2727&fire=FFF915&sideNums=42DD05&include_all_commits=true&count_private=false&layout=compact)
 
 ## Contact Me!
 [[GitHub]](https://github.com/NextdoorPsycho)
