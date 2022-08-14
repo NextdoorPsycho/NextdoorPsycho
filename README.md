@@ -1,19 +1,19 @@
+![image](https://i.imgur.com/SZBTV4r.png)
 ## Greetings!
 By looking far out into space, we are also looking far back into time, back toward the horizon of the universe; Beyond the edge of the world there's a space where emptiness and substance neatly overlap, where past and future form a continuous, endless loop. And, hovering about, there are signs no one has ever read, chords no one has ever heard. The stars are like the trees in the forest, alive and breathing. And they're watching us.
 
-![image](https://i.imgur.com/SZBTV4r.png)
-in general, the universe is often just larger than comprehension; given time, expansion will occor. Are you ready to see the universe?
 
 ### Learn a little about me.
-Im a fairly closed bok, so here are some of the things off the top of my head that 
+Im a fairly closed bok, so here are some of the things off the top of my head, and maybe from the floor...
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=2000&color=F7F7F7&width=650&height=30&lines=Software+Engineer+;Translator;Support+Technician+;Graphic+Designer;Beta+Tester;Workers+ap+Volmit+Software+and+Arcane+Arts)
 
 <details>
   <summary>Work Info</summary>
   
-  - Company: [Volmit Software](https://www.volmit.com/) // Arcane Arts
-  - Title: Software Engineer // Dimensional Mechanic
-  - Length: 5+ Years
-  - Status: Employed 
+  - Company: [Arcane Arts(Volmit Software)](https://www.volmit.com/) 
+  - Title: Software Engineer // Dimensional Mechanic // Support Technician // Translator
+  - Length: 2016-Now
+  - Status: Employed, not looking for work.
 </details>
 <details>
   <summary>Info</summary>
@@ -21,7 +21,7 @@ Im a fairly closed bok, so here are some of the things off the top of my head th
   - Name: Brian
   - Discord: ⋈-NextdoorPsycho-⋈#0001
   - Education: Cogswell College (USV now), CS Software Engineering  /  Political Science (Elsewhere)
-  - Background: Conservative, Gay, Jew (the one and only) 🇺🇸 :rainbow_flag:
+  - Background: Conservative and Gay(the one and only)
   - MTG: Mono blue, EDH // Rainbow Slivers
   
 </details>
@@ -51,7 +51,13 @@ Most of my works are done under GNU Public licence or MIT. Free software, Woo!
 - [DemoBot, Core/Framework](https://github.com/NextdoorPsycho/DemoBot) - This is a base framework for Discord Bots
 - [Abyssalith, Bot](https://github.com/VolmitSoftware/Abyssalith) - Using DemobotCore but an early version
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho) 
-![NextdoorPsycho's GitHub stats](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com?user=NextdoorPsycho&theme=dark&hide_border=true&date_format=n%2Fj%5B%2FY%5D&background=000000&ring=DD2727&fire=FFF915&sideNums=42DD05)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NextdoorPsycho&theme=dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
+
+## Contact Me!
+[[GitHub]](https://github.com/NextdoorPsycho)
+[[Instagram]](https://www.instagram.com/psychopath_nextdoor/)
+[[Email]](mailto:psycho@arcane.art?subject=[GitHub])
   
