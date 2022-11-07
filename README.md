@@ -4,7 +4,7 @@ By looking far out into space, we are also looking far back into time, back towa
 
 
 ### Learn a little about me.
-Im a fairly closed bok, so here are some of the things off the top of my head, and maybe from the floor...
+Im a fairly closed book, so here are some of the things off the top of my head, and maybe from the floor...
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Varela+Round&duration=3000&color=F7F7F7&width=650&height=30&lines=Software+Engineer+;Translator;Support+Technician+;Graphic+Designer;Beta+Tester;Works+at+Volmit+Software+and+Arcane+Arts)
 
 <details>
