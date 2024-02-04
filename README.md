@@ -13,7 +13,7 @@ Im a fairly closed book, so here are some of the things off the top of my head, 
   - Company: [Arcane Arts(Volmit Software)](https://www.volmit.com/) 
   - Title: Software Engineer // Dimensional Mechanic // Support Technician // Translator
   - Length: 2016-Now
-  - Status: Employed, not looking for work.
+  - Status: Employed
 </details>
 <details>
   <summary>Info</summary>
