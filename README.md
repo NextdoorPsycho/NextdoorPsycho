@@ -34,13 +34,6 @@ Im a fairly closed book, so here are some of the things off the top of my head, 
   - Swift
 
 </details>
-<details>
-  <summary>Feats</summary>
-  
-  - AI Mastermind, and Expert generator with Dalle-2
-  - People's Assignment Count **15**
-  - Procedurally generated works that have passed **8** (85% confidence or higher)
-</details>
 
 ### Current Active Projects  /  Actively working on
 Most of my works are done under GNU Public licence or MIT. Free software, Woo!
