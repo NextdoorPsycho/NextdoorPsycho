@@ -2,6 +2,10 @@
 ## Greetings!
 By looking far out into space, we are also looking far back into time, back toward the horizon of the universe; Beyond the edge of the world there's a space where emptiness and substance neatly overlap, where past and future form a continuous, endless loop. And, hovering about, there are signs no one has ever read, chords no one has ever heard. The stars are like the trees in the forest, alive and breathing. And they're watching us.
 
+<a href="https://github.com/NextdoorPsycho/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=NextdoorPsycho&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
 
 ### Learn a little about me.
 Im a fairly closed book, so here are some of the things off the top of my head, and maybe from the floor...
